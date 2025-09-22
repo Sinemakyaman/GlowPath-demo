@@ -52,7 +52,7 @@ Ardından tarayıcıdan şu adrese gidin:
 ```
 ## Demo & Sunum
 
-🌐 **Web Demo:** [GlowPath Demo](WEB_DEMO_LINKİNİ_BURAYA_EKLE)  
+🌐 **Web Demo:** [GlowPath Demo](https://Sinemakyaman.github.io/GlowPath-demo/)  
 🎞 **Sunum:** [GlowPath Sunum](https://gamma.app/docs/GlowPath-Kadnlarn-Isgyla-Aydnlanan-Yollar-sn839s7uszzmse6)  
 📋 **Kullanıcı Anketi:** [Google Form](https://forms.gle/BEWABwy14RSge6qM6)
 ## Yol Haritası
