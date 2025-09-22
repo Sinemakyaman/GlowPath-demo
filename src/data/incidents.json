@@ -1,0 +1,16 @@
+[
+  {
+    "city": "Ankara",
+    "district": "Çankaya",
+    "incident_type": "Yangın",
+    "date": "2025-08-30",
+    "location": [39.92077, 32.85411]
+  },
+  {
+    "city": "İstanbul",
+    "district": "Kadıköy",
+    "incident_type": "Trafik Kazası",
+    "date": "2025-08-29",
+    "location": [40.9919, 29.0306]
+  }
+]
