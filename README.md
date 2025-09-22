@@ -39,7 +39,7 @@ Projeyi kendi bilgisayarınızda çalıştırmak için:
 git clone https://github.com/<kullanici-adi>/glowpath.git
 
 # Proje klasörüne gir
-cd glowpath
+cd glowpath-demo
 
 # Bağımlılıkları yükle
 npm install
