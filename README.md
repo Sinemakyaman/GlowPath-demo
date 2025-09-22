@@ -36,7 +36,7 @@ Projeyi kendi bilgisayarınızda çalıştırmak için:
 
 ```bash
 # Depoyu klonla
-git clone https://github.com/<kullanici-adi>/glowpath.git
+git clone https://github.com/Sinemakyaman/glowpath.git
 
 # Proje klasörüne gir
 cd glowpath-demo
