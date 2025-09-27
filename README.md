@@ -1,6 +1,6 @@
 # 🌐 GlowPath
 
-GlowPath, kadınların güvenliğini artırmayı, dayanışma ağlarını güçlendirmeyi ve şiddet riskine karşı **anonim, hızlı ve güvenli bir destek hattı** oluşturmayı hedefleyen bir web tabanlı platformdur.  
+GlowPath, kadınların güvenliğini artırmayı, dayanışma ağlarını güçlendirmeyi ve şiddet riskine karşı **anonim, hızlı ve güvenli bir destek hattı** oluşturmayı hedefleyen web tabanlı bir platformdur.  
 Proje, kadınların acil durumda konum paylaşarak dayanışma ağına ulaşabilmesini ve destek mekanizmalarını görünür kılmayı amaçlar.
 
 --- 
