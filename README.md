@@ -76,7 +76,7 @@ Bu proje MIT Lisansı ile yayınlanmaktadır.
 
 ``` bash 
 MIT Licenses
-Copyright (c) 2025 [ GlowPath Initiative]
+Copyright (c) 2025 [Sinem Akyaman]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
